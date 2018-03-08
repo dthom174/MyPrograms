@@ -1,0 +1,6 @@
+size, BubbleSort Time, Selection Time, Quicksort Time
+10, 0, 1, 1
+100, 0, 0, 0
+1000, 8, 6, 1
+10000, 70, 175, 1
+100000, 8607, 6378, 5
