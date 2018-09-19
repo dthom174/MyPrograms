@@ -16,7 +16,7 @@ public class Poly {
      */
     public static void main(String[] args) {
         
-   
+   //NEW DAY
       Polynomial p1 = new Polynomial();
       Polynomial p2 = new Polynomial();
       Polynomial p0 = new Polynomial();
